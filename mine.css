@@ -68,7 +68,7 @@ body {
 
   /*Меняет цвет выделения*/
 ::selection {
-  background-color: #D92525;
+  background-color: #265D97;
   color: #212123;
 }
   
@@ -125,7 +125,7 @@ font-weight: 400;
 }
 
 span {
-  color: #D92525;
+  color: #265D97;
 
 }
 
@@ -142,7 +142,7 @@ span {
 }
 
 p a {
-  color: #D92525;
+  color: #265D97;
 }
 
 .curly_back {
@@ -431,7 +431,7 @@ align-items: center;
 }
 
 .line {
-  border: 1px solid #D92525;
+  border: 1px solid #265D97;
   width: 1548px;
   margin: 0 auto;
   margin-bottom: 35px;
@@ -593,12 +593,12 @@ footer {
 
 
 ::-webkit-scrollbar-thumb {
-  background-color: #D92525; /* Цвет полосы прокрутки при наведении */
+  background-color: #265D97; /* Цвет полосы прокрутки при наведении */
 }
 
 
 ::-webkit-scrollbar-thumb:hover {
-  background-color: #D92525; /* Цвет полосы прокрутки при наведении */
+  background-color: #265D97; /* Цвет полосы прокрутки при наведении */
 }
 
 .form-container {
@@ -635,7 +635,7 @@ footer {
 .sign {
   display: block;
   width: 516px;
-  background-color: #D92525;
+  background-color: #265D97;
   padding: 26px;
   text-align: center;
   color: #212123;
@@ -659,7 +659,7 @@ footer {
 .line-contacts {
   flex: 1 1 0%;
 
-  border: 1px solid #D92525;
+  border: 1px solid #265D97;
 }
 
 .social-message .message {
@@ -690,7 +690,7 @@ padding: 34px;
 }
 
 .social-contacts a:hover{
-  color: #D92525;
+  color: #265D97;
 }
 
 .social a{
@@ -711,7 +711,7 @@ padding: 34px;
 }
 
 .social .icon :hover {
-  fill: #D92525;
+  fill: #265D97;
 }
 
 .image {
@@ -882,7 +882,7 @@ font-size: 4vw;
 }
 
 .line {
-  border: 0.02vw solid #D92525;
+  border: 0.02vw solid #265D97;
   width: 90%;
   margin-bottom: 2vw;
 }
@@ -997,7 +997,7 @@ font-size: 4vw;
 
 
 .line-contacts {
-  border: 0.02vw solid #D92525;
+  border: 0.02vw solid #265D97;
 }
 
 .social-message .message {
@@ -1115,7 +1115,7 @@ align-items: center;
 }
 
 .line {
-  border: 0.02vw solid #D92525;
+  border: 0.02vw solid #265D97;
   width: 90%;
   margin: 0 auto;
   margin-bottom: 3vw;
@@ -1217,7 +1217,7 @@ align-items: center;
 .sign {
   display: block;
   width: 80%;
-  background-color: #D92525;
+  background-color: #265D97;
   padding: 3vw;
   text-align: center;
   color: #212123;

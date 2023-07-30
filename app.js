@@ -142,7 +142,7 @@ const interval2 = setInterval(animateNumber2, 300);
 
 // const interval3 = setInterval(animateNumber3, 100);
 
-const text = "как грамотно выбрать систему отопления и сохранить семейный бюджет";
+const text = "оконный фильтр нового поколения";
 const delay = 40; // задержка между появлением каждой буквы
 
 const target = document.getElementById('typing-effect');
