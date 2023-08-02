@@ -68,7 +68,7 @@ body {
 
   /*Меняет цвет выделения*/
 ::selection {
-  background-color: #265D97;
+  background-color: #3EB5F1;
   color: #212123;
 }
   
@@ -125,7 +125,7 @@ font-weight: 400;
 }
 
 span {
-  color: #265D97;
+  color: #3EB5F1;
 
 }
 
@@ -142,7 +142,7 @@ span {
 }
 
 p a {
-  color: #265D97;
+  color: #3EB5F1;
 }
 
 .curly_back {
@@ -184,6 +184,7 @@ p a {
   position: absolute;
   left: 39%;
   transform: translateY(-50%);
+  margin-bottom: 3vw;
 }
 
 .back_button img {
@@ -431,7 +432,7 @@ align-items: center;
 }
 
 .line {
-  border: 1px solid #265D97;
+  border: 1px solid #3EB5F1;
   width: 1548px;
   margin: 0 auto;
   margin-bottom: 35px;
@@ -593,12 +594,12 @@ footer {
 
 
 ::-webkit-scrollbar-thumb {
-  background-color: #265D97; /* Цвет полосы прокрутки при наведении */
+  background-color: #3EB5F1; /* Цвет полосы прокрутки при наведении */
 }
 
 
 ::-webkit-scrollbar-thumb:hover {
-  background-color: #265D97; /* Цвет полосы прокрутки при наведении */
+  background-color: #3EB5F1; /* Цвет полосы прокрутки при наведении */
 }
 
 .form-container {
@@ -635,7 +636,7 @@ footer {
 .sign {
   display: block;
   width: 516px;
-  background-color: #265D97;
+  background-color: #3EB5F1;
   padding: 26px;
   text-align: center;
   color: #212123;
@@ -659,7 +660,7 @@ footer {
 .line-contacts {
   flex: 1 1 0%;
 
-  border: 1px solid #265D97;
+  border: 1px solid #3EB5F1;
 }
 
 .social-message .message {
@@ -690,7 +691,7 @@ padding: 34px;
 }
 
 .social-contacts a:hover{
-  color: #265D97;
+  color: #3EB5F1;
 }
 
 .social a{
@@ -711,7 +712,7 @@ padding: 34px;
 }
 
 .social .icon :hover {
-  fill: #265D97;
+  fill: #3EB5F1;
 }
 
 .image {
@@ -882,7 +883,7 @@ font-size: 4vw;
 }
 
 .line {
-  border: 0.02vw solid #265D97;
+  border: 0.02vw solid #3EB5F1;
   width: 90%;
   margin-bottom: 2vw;
 }
@@ -997,7 +998,7 @@ font-size: 4vw;
 
 
 .line-contacts {
-  border: 0.02vw solid #265D97;
+  border: 0.02vw solid #3EB5F1;
 }
 
 .social-message .message {
@@ -1115,7 +1116,7 @@ align-items: center;
 }
 
 .line {
-  border: 0.02vw solid #265D97;
+  border: 0.02vw solid #3EB5F1;
   width: 90%;
   margin: 0 auto;
   margin-bottom: 3vw;
@@ -1217,7 +1218,7 @@ align-items: center;
 .sign {
   display: block;
   width: 80%;
-  background-color: #265D97;
+  background-color: #3EB5F1;
   padding: 3vw;
   text-align: center;
   color: #212123;
