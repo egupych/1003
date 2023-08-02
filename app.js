@@ -142,7 +142,7 @@ const interval2 = setInterval(animateNumber2, 300);
 
 // const interval3 = setInterval(animateNumber3, 100);
 
-const text = "оконный фильтр нового поколения";
+const text = "фильтр на окно для здоровья всей семьи";
 const delay = 40; // задержка между появлением каждой буквы
 
 const target = document.getElementById('typing-effect');

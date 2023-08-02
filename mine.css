@@ -183,6 +183,7 @@ p a {
   width: 20vw;
   position: absolute;
   left: 39%;
+  top: 15%;
   transform: translateY(-50%);
 }
 
@@ -605,7 +606,7 @@ footer {
   width: 1548px;
   border-radius: 69px;
   background-color: #212123;
-  padding: 69px 137px;
+  padding: 69px 137px 0px;
   margin-bottom: 43px;
   position: relative;
 }
@@ -621,7 +622,7 @@ footer {
 .quote {
   font-size: 20px;
   color: #F7F7F7;
-  padding: 50px 258px 0px;
+  padding: 100px 258px 0px;
   text-align: center;
 }
 
@@ -734,7 +735,7 @@ body {
 
 
 .parallax-one {overflow: hidden; display: block;
-  position: relative; width: 90vw; background: linear-gradient(rgba(20, 20, 20, 0.95), rgba(20,20,20,0.95)), url(https://github.com/egupych/1002/blob/main/map.png?raw=true); background-attachment: fixed; background-size: cover; -moz-background-size: cover; -webkit-background-size: cover; background-repeat: no-repeat; background-position: top center;}
+  position: relative; width: 90vw; background: linear-gradient(rgba(20, 20, 20, 0.95), rgba(20,20,20,0.95)), url(); background-attachment: fixed; background-size: cover; -moz-background-size: cover; -webkit-background-size: cover; background-repeat: no-repeat; background-position: top center;}
 
 
 .center {
@@ -971,7 +972,7 @@ font-size: 4vw;
 .form-container {
   width: 90vw;
   border-radius: 4vw;
-  padding: 4vw 8vw;
+  padding: 4vw 8vw 0vw;
   margin-bottom: 2.5vw;
 }
 
@@ -981,7 +982,7 @@ font-size: 4vw;
 
 .quote {
   font-size: 1.2vw;
-  padding: 3vw 15vw 0vw;
+  padding: 6vw 15vw 0vw;
 }
 
 .sign {
@@ -1205,14 +1206,14 @@ align-items: center;
   width: 90vw;
   border-radius: 4vw;
   background-color: #212123;
-  padding: 4vw 6vw;
+  padding: 4vw 8vw 0vw;
   margin-bottom: 4vw;
 }
 
 
 .quote {
   font-size: 3vw;
-  padding: 3vw 0 3vw;
+  padding: 6vw 0 3vw;
 }
 
 .sign {
