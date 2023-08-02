@@ -184,7 +184,6 @@ p a {
   position: absolute;
   left: 39%;
   transform: translateY(-50%);
-  margin-bottom: 3vw;
 }
 
 .back_button img {
@@ -622,7 +621,7 @@ footer {
 .quote {
   font-size: 20px;
   color: #F7F7F7;
-  padding: 34px 258px 0;
+  padding: 50px 258px 0px;
   text-align: center;
 }
 
@@ -981,7 +980,7 @@ font-size: 4vw;
 
 .quote {
   font-size: 1.2vw;
-  padding: 2vw 15vw 0vw;
+  padding: 3vw 15vw 0vw;
 }
 
 .sign {
@@ -1212,7 +1211,7 @@ align-items: center;
 
 .quote {
   font-size: 3vw;
-  padding: 2vw 0 3vw;
+  padding: 3vw 0 3vw;
 }
 
 .sign {
