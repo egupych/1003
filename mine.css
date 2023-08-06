@@ -182,9 +182,10 @@ p a {
 .logo_company {
   width: 20vw;
   position: absolute;
-  left: 39%;
-  top: 15%;
-  transform: translateY(-50%);
+  margin: auto;
+  left: 0;
+  top: 10%;
+  right: 0;
 }
 
 .back_button img {
@@ -1168,6 +1169,10 @@ align-items: center;
   font-size: 6vw;
 }
 
+.logo_company {
+  width: 40vw;
+  top: 10%;
+}
 
 .logo_social {
   display: none;
@@ -1213,7 +1218,7 @@ align-items: center;
 
 .quote {
   font-size: 3vw;
-  padding: 6vw 0 3vw;
+  padding: 20vw 0 3vw;
 }
 
 .sign {
